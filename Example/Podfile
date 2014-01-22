@@ -2,7 +2,7 @@ platform :ios, '6.0'
 
 xcodeproj 'Example'
 
-pod 'MSCollectionViewCalendarLayout', :path => '../'
+pod 'MSCollectionViewCalendarLayout', :path => './../'
 
 pod 'RestKit', '~> 0.20'
 pod 'CupertinoYankee', '~> 0.1'
